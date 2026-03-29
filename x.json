@@ -1,0 +1,8 @@
+{
+  "prompt": "A Japanese Edo-period ukiyo-e woodblock print depicting a neural network as a layered landscape. The composition is divided into three distinct horizontal stacked bands — left band represents the input layer, middle band the hidden layers, right band the output layer. Within each band, stylized circular forms resembling stones or lotuses represent neurons, each outlined in heavy black keyblock lines. Thin curved flowing lines like river currents or wind streaks connect the neurons across bands, representing weights and signal flow. The overall diagonal energy moves from lower-left to upper-right like Hokusai's wave compositions. All colors are completely flat and unmodulated — zero shading, zero gradients — in authentic ukiyo-e palette: Prussian blue, ochre yellow, vermillion red, pale moss green, on cream off-white paper. The paper texture and visible woodgrain runs through all color areas. Bold black outlines define every shape. No Western perspective or photographic shading of any kind. No text. No labels. No modern elements. The style is unmistakably Katsushika Hokusai — flat, graphic, outlined, layered. Single frame, portrait or square orientation.",
+  "model": "DALL-E 3 via ChatGPT",
+  "concept": "Neural Networks — layers, neurons, weighted connections, and signal flow from input to output",
+  "tradition_name": "Japanese Edo-period Ukiyo-e woodblock prints",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Targeted flat unmodulated color fields, heavy black keyblock outlines, cream paper as active color, visible woodgrain texture, Hokusai diagonal composition, and Prussian blue/ochre/vermillion palette — grammar not surface."
+}
